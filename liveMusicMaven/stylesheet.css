@@ -1,0 +1,47 @@
+body {
+    background-color: azure;    
+    color: rgb(0, 0, 150);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.contentDiv {
+    padding: 30px;
+    border-width: 5px;
+    border-style: dashed;
+   
+}
+
+table {
+    border-width: 5px;
+    border-style: outset;
+    padding-top: 10px;
+}
+
+tr {
+    text-align: center;
+}
+
+td {
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+}
+
+input {
+    border-radius: 10px;
+    width: 50%;
+    height: 20px;
+    text-align: center;
+
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+button {
+    background-color: rgb(246, 249, 252);
+}
